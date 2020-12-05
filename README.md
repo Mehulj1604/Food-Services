@@ -7,7 +7,7 @@ Installation Steps:-
 
 2.Download this project.
 
-3.Let's assume that you have installed so create a folder in htdocs folder named Food-services and paste this files and folders in food-services.
+3.Let's assume that you have installed so create a folder in htdocs folder named food-services and paste this files and folders in food-services.
 
 4.Import online_rest.sql file in phpmyadmin.
 
